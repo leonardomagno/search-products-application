@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Search Products Application</string>
+    <string name="app_name">Search Products</string>
+    <string name="error_dialog_title">Erro</string>
+    <string name="error_dialog_message">Não foi possível estabelecer uma conexão</string>
+    <string name="error_dialog_positive_buttom">Ok</string>
 </resources>
